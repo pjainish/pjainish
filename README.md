@@ -8,13 +8,13 @@ Currently, I'm a Lead Applied Engineer, but I also love working with folks who h
 
 I've been tinkering with everything from signal processing to biometrics, but these days I'm really excited about:
 
-- Building recommendation systems that feels like a usual bartender
+- Building recommendation systems that feels like a usual barkeep
 - Computer vision projects that make you go "wait, how did it know that?"
 - NLP applications that understand what people actually mean
 - Getting ML models to behave nicely in the real world
 - Exploring how AI can make education and entertainment more engaging
 
-## Beyond the Technical
+## Beyond the Code
 
 What really gets me going is helping businesses figure out how to use all this cool technology in ways that actually matter. Sometimes that means rethinking how they operate, sometimes it's about finding opportunities they didn't know existed. 
 
@@ -30,4 +30,10 @@ I genuinely enjoy the puzzle of matching the right technology to the right probl
 
 The best projects happen when smart people get together and start asking "what if we tried...?" 
 
-Drop me a line at [this email](mailto:jainish.1284.jp@gmail.com) if you want to explore some ideas together!
+## When I'm Not Building AI Things
+
+You'll probably find me on a climbing a rock, out for a coffee, or enjoying classic cinema. But honestly, my curiosity doesn't take much of a break – I love diving into cognitive science, computational neuroscience, physics, and psychology. There's something beautiful about how these fields connect to what we're doing in AI.
+
+At my core, I'm just someone who's endlessly curious about how everything works – from neural networks to actual neurons, from algorithms to the physics that makes it all possible. It all feeds back into better solutions somehow.
+
+Drop me a line at [this email](mailto:jainish.1284.jpjp@gmail.com) if you want to explore some ideas together!
