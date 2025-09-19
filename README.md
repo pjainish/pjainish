@@ -36,4 +36,4 @@ You'll probably find me on a climbing a rock, out for a coffee, or enjoying clas
 
 At my core, I'm just someone who's endlessly curious about how everything works – from neural networks to actual neurons, from algorithms to the physics that makes it all possible. It all feeds back into better solutions somehow.
 
-Drop me a line at [this email](mailto:jainish.1284.jpjp@gmail.com) if you want to explore some ideas together!
+Drop me a line at [this email](mailto:jainish.1284.jp@gmail.com) if you want to explore some ideas together!
